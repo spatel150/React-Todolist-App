@@ -1,2 +1,2 @@
 # React-Todolist-App
-A React Todolist where users can add a specific list item and remove a list item as needed.  
+A React Todolist application where users can add a specific task and remove/delete a task item as needed.  
